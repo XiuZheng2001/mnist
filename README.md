@@ -1,0 +1,2 @@
+# mnist
+use_pytorch
